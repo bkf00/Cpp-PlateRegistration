@@ -1,0 +1,9 @@
+Bogdan 20 Student C Benz 2.0 214 Diesel Black PH08ANS 2 12 2013 11 11 2007
+Gheorghe 26 Student B BMW 3.05 253 Gasoline White BV07AHS 5 12 2014 11 11 2008
+Andrei 28 Student D Mercedes 5.5 273 Diesel Black B206ATS 21 12 2015 11 11 2009
+Alexandru 22 Student B Toyota 2.7 123 Gas MIROBOLANTA BZ04AMS 12 12 2016 11 11 2012
+Ion 32 Student D Mazda 2.5 292 Diesel Orange PH01VIT 7 5 2019 26 11 2015
+Andreea 33 Student C Dacia 1.4 75 Diesel Yellow PH04AHH 8 12 2000 11 11 2016
+Delia 41 Student A Volkswagen 2.2 103 Diesel Silver PH04SSS 1 12 2000 11 11 2017
+Vasile 76 Pensionar D Tractor 6.5 421 Oil Pink OT43SEF 15 5 1986 12 6 2000
+Beatrice 18 Student A Suzuki 1 45 Gasoline Red B777LUK 15 2 2019 12 7 2020
